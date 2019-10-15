@@ -12,10 +12,21 @@
     "start": "serve ./src"
   },
   "dependencies": {
-    "eslint": "^5.9.0",
+    "clean": "4.0.2",
+    "evp_bytestokey": "^1.0.0",
     "htmlhint": "^0.11.0",
-    "jest": "^24.9.0",
+    "mocha": "^6.2.1",
     "opener": "^1.5.1",
     "serve": "^11.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0",
+    "regenerator-runtime": "^0.13.3"
   }
 }
