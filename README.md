@@ -3,20 +3,20 @@
 *Sistema para crear clave de alumnos
 * Es para generar clave segura de los alumnos utilizando su nombre y apellido. Tiene dos opciones cifrado y descifrado. El cifrado se ingresar el nombre y apellido del alumno y colocarle el nivel de complejidad. El descifrado se ingresa la clave y el nivel de complejidad y retornara el nombre y apellido del alumno. 
 * La imagen final de tu proyecto.
+  ![](/imagen/v1.png)
+  ![](/imagen/v2.png)
+  ![](/imagen/v3.png)
+  ![](/imagen/v4.png)
 * Investigacion UX:
   1. Los usuarios son el personal administrativo del colegio,ellos han sido capacitados para usar esta herramienta.
   2. Es un programa que facilita la creacion de claves del intranet para los alumnos.Asi el personal solo ingresaria los datos del alumno y el programa generara una clave.
-  3. Luego colocaras la foto de tu primer prototipo en papel.
-    ![](/imagen/prototipo.jpg)
-    ![](/imagen/p3.png)
-    ![](/imagen/p4.png)
+  3. Prototipo en papel.
+  ![](/imagen/prototipo.jpg)
   4. Feedback: Cambiar el color de letra del titulo,aumentar el tamaño de las letras e imagen, poner el mismo estilo a los botones.
   5. Imagen del prototipo final.
-    ![](/imagen/v1.png)
-    ![](/imagen/v2.png)
-    ![](/imagen/v3.png)
-    ![](/imagen/v4.png)
-
+  ![](/imagen/p3.png)
+  ![](/imagen/p4.png)     
+  
 ## Objetivos de aprendizaje Cipher
 
 A continuación te presentamos los objetivos de aprendizaje de este proyecto. Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplicar** en tu proyecto.
