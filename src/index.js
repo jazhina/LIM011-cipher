@@ -21,15 +21,9 @@ limpiar.addEventListener('click', () => {
   document.getElementById('textci1').value = '';
   document.getElementById('textci2').value = '';
   document.getElementById('textci3').value = '';
-  document.getElementById('textdes1').value = '';
-  document.getElementById('textdes2').value = '';
-  document.getElementById('textdes3').value = '';
 });
 const limpiar1 = document.getElementById('limpiar1');
 limpiar1.addEventListener('click', () => {
-  document.getElementById('textci1').value = '';
-  document.getElementById('textci2').value = '';
-  document.getElementById('textci3').value = '';
   document.getElementById('textdes1').value = '';
   document.getElementById('textdes2').value = '';
   document.getElementById('textdes3').value = '';
