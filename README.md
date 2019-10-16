@@ -7,6 +7,7 @@
   1. Los usuarios son el personal administrativo del colegio,ellos han sido capacitados para usar esta herramienta.
   2. Es un programa que facilita la creacion de claves del intranet para los alumnos.Asi el personal solo ingresaria los datos del alumno y el programa generara una clave.
   3. Luego colocaras la foto de tu primer prototipo en papel.
+    ![](/imagen/prototipo.jpg)
     ![](/imagen/p3.png)
     ![](/imagen/p4.png)
   4. Feedback: Cambiar el color de letra del titulo,aumentar el tamaño de las letras e imagen, poner el mismo estilo a los botones.
