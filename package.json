@@ -15,7 +15,7 @@
     "clean": "4.0.2",
     "evp_bytestokey": "^1.0.0",
     "htmlhint": "^0.11.0",
-    "mocha": "^6.2.1",
+    "jest": "^6.2.1",
     "opener": "^1.5.1",
     "serve": "^11.0.0"
   },
