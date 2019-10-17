@@ -25,12 +25,12 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 
 - [X] Diseñar la aplicación pensando y entendiendo al usuario.
 - [X] Crear prototipos para obtener feedback e iterar.
-- [X] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 
 ### HTML y CSS
 
-- [X] Uso correcto de HTML semántico.
-- [X] Uso de selectores de CSS.
+- [] Uso correcto de HTML semántico.
+- [] Uso de selectores de CSS.
 - [X] Construir tu aplicación respetando el diseño realizado (maquetación).
 
 ### DOM
@@ -44,16 +44,16 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 - [X] Manipulación de strings.
 - [X] Uso de condicionales (if-else | switch).
 - [X] Uso de bucles (for | do-while).	
-- [] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [X] Uso de funciones (parámetros | argumentos | valor de retorno).
 - [X] Declaración correcta de variables (const & let).
 
 ### Testing
 - [] Testeo de tus funciones.
 
 ### Git y GitHub
-- [] Comandos de git (add | commit | pull | status | push).
-- [] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+- [X] Comandos de git (add | commit | pull | status | push).
+- [X] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
-- [] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [X] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [X] Uso de linter para seguir buenas prácticas (ESLINT).
